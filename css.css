@@ -1,0 +1,48 @@
+.image-conteiner {
+  position: relative;
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}
+.text-main {
+  position: absolute;
+  width: 616px;
+  height: 412px;
+  left: 166px;
+  top: 187px;
+
+  color: #ffffff;
+}
+
+.image-logo {
+  position: absolute;
+  width: 256.29px;
+  height: 39.27px;
+  left: 164px;
+  top: 23px;
+}
+
+.image-oval {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 26px;
+  left: 1735px;
+  bottom: 100%;
+}
+
+.image-icon {
+  position: absolute;
+  width: 18px;
+  height: 12.6px;
+  top: 40px;
+  left: 1746px;
+}
+
+h1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+}
